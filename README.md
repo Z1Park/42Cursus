@@ -14,7 +14,7 @@
 3. [fdf](https://github.com/Z1Park/42Cursus/tree/main/fdf)
 ---
 ## 3 circle
-1. [philosopher](https://github.com/Z1Park/42Cursus/tree/main/philosopher)
+1. [philosophers](https://github.com/Z1Park/42Cursus/tree/main/philosophers)
 2. [minishell](https://github.com/Z1Park/42Cursus/tree/main/minishell)
 ---
 ## 4 circle
