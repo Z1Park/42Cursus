@@ -22,3 +22,4 @@
 ---
 - 배운 점
 
+https://thinkable-son-6b5.notion.site/ft_irc-244ed51ddbfa4624a06ada26e2272bfe
