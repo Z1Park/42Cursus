@@ -90,16 +90,25 @@
 
 - 과제 설명
 
+  c++의 여러가지 casting 방법에 대해 배워보는 과제
+
 - 느낀 점
+
+1. 명시적 형변환과 const casting에 대해서는 사용해보지 못했지만, c++에서 사용되는 static casting, dynamic casting, reinterpret casting에 대해 이해하고 실습해볼 수 있었다.
 
 ---
 # cpp_module07
 
-> C++ casts
+> C++ templates
 
 - 과제 설명
 
+  c++의 template를 사용해보는 과제
+
 - 느낀 점
+
+1. template의 개념과 template을 사용하여 클래스나 함수를 생성하는 방법에 대해 배울 수 있었다.
+2. c++ 과제 중 제일 쉬웠다.
 
 ---
 # cpp_module08
@@ -108,4 +117,8 @@
 
 - 과제 설명
 
+  c++에서 template를 활용해 데이터를 저장할 수 있는 간단한 클래스를 만들고 실제 container와 비교해보는 과제
+
 - 느낀 점
+
+1. iterator가 동작하는 방식을 간단하게 흉내낸 iter 함수와 단순화된 stack을 만들어보면서 container에 대한 개념을 어느정도 잡을 수 있었던 것 같다.
